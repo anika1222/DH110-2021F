@@ -4,9 +4,9 @@ Growing up a vegetarian, I've always felt an undeniable connection to my surroun
 
 To fuel my desire of preserving our planet by taking small steps like pioneering change in our immediate communities, I've chosen to center this project around the Arizonian government's various environmentally-related facets. Through the development of this project and its foundational research, I want to contribute to the creation of a delightful website that contains all of Arizona's environmental projects and initiatives, as well as houses an online community for locals to interact, collaborate, and further the preservation of their communities.  
 
-To support this assignment, I have referenced two sources: [10 Usability Heuristics for User Interface Design](https://azdeq.gov/) and [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). By utilizing these tools of analyses with a target audience of Arizonian adults in mind, I have carried out a comprehensive heuristic evaluation of Arizona's [Department of Environmental Quality](https://www.nngroup.com/articles/ten-usability-heuristics/) and [Department of Health Services](https://www.azdhs.gov/index.php), both of which detail issues of public and enviromental health within the state. 
+To support this assignment, I have referenced two sources: [10 Usability Heuristics for User Interface Design](https://azdeq.gov/) and [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). By utilizing these tools of analyses with a target audience of Arizonian adults in mind, I have carried out a comprehensive heuristic evaluation of Arizona's [Department of Environmental Quality](https://azdeq.gov/) and [Department of Health Services](https://www.azdhs.gov/index.php), both of which detail issues of public and enviromental health within the state. 
 
-## Website 01
+## [Department of Environmental Quality](https://azdeq.gov/) 
 ![Nevada government website](nevadaGovWebsite.png)
 
 #### Preface
