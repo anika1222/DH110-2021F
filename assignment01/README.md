@@ -7,7 +7,7 @@ To fuel my desire of preserving our planet by taking small steps like pioneering
 To support this assignment, I have referenced two sources: [10 Usability Heuristics for User Interface Design](https://azdeq.gov/) and [Severity Ratings for Usability Problems](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/). By utilizing these tools of analyses with a target audience of Arizonian adults in mind, I have carried out a comprehensive heuristic evaluation of Arizona's [Department of Environmental Quality](https://azdeq.gov/) and [Department of Health Services](https://www.azdhs.gov/index.php), both of which detail issues of public and enviromental health within the state. 
 
 ## [Department of Environmental Quality](https://azdeq.gov/) 
-![Nevada government website](nevadaGovWebsite.png)
+![Department of Environmental Quality](ADEQ.png)
 
 #### Preface
 The ADEQ is Arizona's Department of Environmental Quality. This branch of the state "administers the state’s environmental laws and delegated federal programs to prevent air, water and land pollution and ensure cleanup" (ADEQ). Their website is sorted by three environmental programs: Air Quality, Water Quality and Waste, with functional units responsible for technical, operational and policy support. A typical user of this site might be a citizen of Arizona seeking environmental resources to strive for change, information regarding the state's environmental history, or hearings within the community. 
