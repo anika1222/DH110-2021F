@@ -41,7 +41,7 @@ _Overall_: This website is strong in its application of aesthetic and minimalist
 ![Department of Health Services](AZDHS.png)
 
 #### Preface
-AZDHS Preface here.
+The AZDHS is Arizona's Department of Health Services. The branch itself spans a variety of public health-related disciplines, including, but not limited to: COVID-19, Health Screenings, Immunizations, etc. As stated by the AZDHS, their mission is to "promote, protect, and improve the health and wellness of individuals and communities in Arizona." The site includes information that is relevant to a myriad of groups such as: women, men, children & teens, seniors, clinicians, school representatives, Spanish speakers, and veterans, making the target audience a mélange of Arizonian citizens who may want to access health-related resources.
 
 #### Heuristic Evaluation
 _Overall_: Explanation here.
