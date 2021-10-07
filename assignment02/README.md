@@ -10,7 +10,7 @@ Recognition rather than recall  | Many ways to get to a specific position, makin
 Help users recognize, diagnose, and recover from errors | Broken links display a standard error message but do not offer redirection nor help to the user  | Efficiently seek COVID-19 info for Spanish-speakers through a broken link  |
 
 ## Purpose of Usability Testing
-Insert purpose of testing here.
+A usability test (UT) is performed to assess and improve the usability (effectiveness, efficiency, and satisfaction) of a product or experience through the collection of empirical data and observation of representative end users. In this case, I will be utilizing UT in order to examine usability problems from my previous heurestic evalution. While the heurestic evaluation was pivotal to the identification of these aforementioned usability problems, a UT is the most comprehensive and accurate manner to understand the participant/user's thoughts and reactions while interacting with the product. By the design of my UT, I hope to observe the behaviors of my survey's participant, specifically when they encounter any usability problems. 
 
 ## Methodology
 Insert methodology here.
