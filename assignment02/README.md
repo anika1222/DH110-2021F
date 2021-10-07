@@ -13,8 +13,24 @@ Help users recognize, diagnose, and recover from errors | Broken links display a
 A usability test (UT) is performed to assess and improve the usability (effectiveness, efficiency, and satisfaction) of a product or experience through the collection of empirical data and observation of representative end users. In this case, I will be utilizing UT in order to examine usability problems from my previous heurestic evalution. While the heurestic evaluation was pivotal to the identification of these aforementioned usability problems, a UT is the most comprehensive and accurate manner to understand the participant/user's thoughts and reactions while interacting with the product. By the design of my UT, I hope to observe the behaviors of my survey's participant, specifically when they encounter any usability problems. 
 
 ## Methodology
-Insert methodology here.
-Survey link: https://forms.gle/nA3WBjNJCE5KjU6d6
+The pilot usability test took place in my apartment in Los Angeles, CA. The participant was a 20-year old male who utilized a laptop to complete the usability test. 
+
+**Usability Test Structure:**
+* Introduction
+* Informed Consent
+* Background Questions
+* Pre-Test Questions
+* Task Scenarios 
+* Post-Test Questionnaire
+* System Usability Scale (SUS)
+* Product Satisfaction Card
+* Demographics
+
+This test was conducted and documented via Zoom – the participant screen-recorded his navigation through the survey while simultaneously recording himself and his discourse. 
+
+**Links**
+* [UT survery](https://forms.gle/nA3WBjNJCE5KjU6d6)
+* [Pilot UT video](x) 
 
 ## Reflection
 Insert reflection here.
