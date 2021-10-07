@@ -33,4 +33,6 @@ This test was conducted and documented via Zoom – the participant screen-recor
 * [Pilot UT video](https://drive.google.com/file/d/1xfG3mVq9kjtU7QPnZDdWaXDjNp3VzpsS/view?usp=sharing) 
 
 ## Reflection
-Insert reflection here.
+While this UT went generally smooth and I was able to receive information that was vital to my intial heurestic evaluation, there were definitely some shortcomings that may have reduced the overall efficiency of the test. After conducting this test, I have better understood many aspects of a user experience, most importantly, that is it very subjective to each user, meaning usability issues that may have been prominent to me, could easily be overlooked by a user with a unique set of life and web-navigation experiences. 
+
+Throughout the entire process, I had an urge to guide the participant through the site as I possessed more knowledge on how to navigate it. This urge persisted through the duration of the UT and was especially frustrating when the participant encountered the broken link. While I had looped around this usability flaw many times, the participant had no and observing the way he encountered and reacted to this issue was especially helpful to my research. Watching a first-time user navigate their journey through the AZDHS site shed light on many usability issues that I had either a) overlooked or b) not recognized – this allowed me to recognize the importance of having multiple pairs of eyes interact with a product.
