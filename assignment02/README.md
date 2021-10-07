@@ -30,7 +30,7 @@ This test was conducted and documented via Zoom – the participant screen-recor
 
 **Links**
 * [UT survery](https://forms.gle/nA3WBjNJCE5KjU6d6)
-* [Pilot UT video](x) 
+* [Pilot UT video](https://drive.google.com/file/d/1xfG3mVq9kjtU7QPnZDdWaXDjNp3VzpsS/view?usp=sharing) 
 
 ## Reflection
 Insert reflection here.
