@@ -35,21 +35,20 @@
 
 * I decided to use a hybrid of two methods to conduct my research: participatory observation and interview.
   * For participatory observation I observed how my participant gathered information about arts education centers online.
-  * For the interview, I asked my participant some questions about her view on the accesibility of the arts in LA and her preffered methods (online, word-of-mouth, visiting art centers, etc) of seeking this arts education as an underrepresented minority herself.
-* Both of these observations were conducted over a Zoom call. As the participant was in a different city than me, this was the most viable option.
-* I used an iPhone to voice record the interview and I recorded the interview and participatory observation through Zoom + our respective webcams.
+  * For the interview, I asked my participant some questions about her view on the accesibility of the arts in LA and her preffered methods (online, word-of-mouth, visiting art centers, etc) of seeking this arts education as a minority herself.
+* Both of these observations were conducted in person in Westwood, Los Angeles, California. 
+* I used an iPhone to video record both the interview and participatory observation.
 
 ## Participatory Research Materials
 
-**1. Contextual Inquiry Guide**
+Please find the contextual inquiry script [here](x).
 
-Please find my **script** for this interview [here](https://docs.google.com/document/d/1deNEtd-r155F-ZNYfkmh4xWlLYpluqrDOF_TwX7BgQ8/edit), with an introduction, goals, and contextual questions.
+Please find the recordings here: 
+[Part 1](x).
+[Part 2](x).
+[Part 3](x).
 
-**2. User Data**
-
-Please find the **recording** of the interview [here](https://drive.google.com/file/d/1XywoY38WOYZZt3z06I9ryTEVZK_Zgyo9/view?usp=sharing).
-
-The **transcription** of the interview can be found [here](https://docs.google.com/document/d/1kqBzDjJ_XDwD77_coaovXrem6W9d520NsBAA6oOGvn0/edit?usp=sharing).
+Please find the transcription [here](x).
 
 ### Here are some interesting quotes and insights from the interview:
 
