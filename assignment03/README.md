@@ -35,22 +35,20 @@
 
 * I decided to use a hybrid of two methods to conduct my research: participatory observation and interview.
   * For participatory observation I observed how my participant gathered information about arts education centers online.
-  * For the interview, I asked my participant some questions about her view on the accesibility of the arts in LA and her preffered methods (online, word-of-mouth, visiting art centers, etc) of seeking this arts education as a minority herself.
+  * For the interview, I asked my participant some questions about her view on the accesibility of the arts in LA and her preffered methods (online, word-of-mouth, visiting art centers, etc) of seeking this arts education as a minority himself.
 * Both of these observations were conducted in person in Westwood, Los Angeles, California. 
-* I used an iPhone to video record both the interview and participatory observation.
+* I used a webcam to video record both the interview and participatory observation.
 
 ## Participatory Research Materials
 
-Please find the contextual inquiry script [here](x).
+Please find the contextual inquiry script [here](https://docs.google.com/document/d/1Co2YfWUVcVEllxIV5Wb-r7bBhu8riHlscJ9p2C8tVGU/edit?usp=sharing)
 
 Please find the recordings here: 
-[Part 1](x).
-[Part 2](x).
-[Part 3](x).
+[Part 1](https://drive.google.com/file/d/1SUUBWOFRNyFxyKIW1pF9zDe8yCzA4O8J/view?usp=sharing) & [Part 2](https://drive.google.com/file/d/1p8wc_2hTQOQiNN3c3-KgW2lYkBMPFYXC/view?usp=sharing)
 
-Please find the transcription [here](x).
+Please find the transcription [here](x)
 
-### Here are some interesting quotes and insights from the interview:
+### Noteworthy insights from the interview:
 
 **:one: How the user chooses to plan their parking ahead of time (3:04)**
 > If I know where I'm going, I like to plan ahead so I will try. If I'm going to a difficult place, an area that I know is going to be very difficult to find parking, like Downtown LA, I will do research in advance like I will look for parking structures and save the address of the parking structure in my phone. But if it's like the grocery store, I know where the parking is. I'll find a spot eventually.
