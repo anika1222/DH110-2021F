@@ -6,7 +6,7 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 
 ## Personas & Empathy Map
 
-### Persona 1: John Muir - Dedicated Single Father, Product Manager and Creative Writer
+### Persona 1: Sarah Kim - Loving mother, activist, and cultural artist
 
 ![Sarah's Persona](persona01.jpg)
 
