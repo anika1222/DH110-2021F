@@ -12,7 +12,7 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 
 ![Sarah's Empathy](empathymap01.jpg)
 
-### Persona 2: Sarah Marquis- Resilient Mother, Registered Nurse and Stay-at-home Caregiver
+### Persona 2: Kabir Singh – Data-driven developer & full-time student
 
 ![Kabir's Persona](persona02.jpg)
 
@@ -20,25 +20,26 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 
 
 ## Scenarios & Journey Map
-> These scenarious are centered around Arizona's Government Webpage, specifically the children and adolescent resource pages. These are additional features to support or ways of bolstering existing systems. 
+> These scenarious are centered around the Californian government's website, specifically its categories pertaining to documentation & licensing associated with starting a business.
 
-### 1. John's Scenario & Journey Map
-#### Why John is using this product
-> John is having questions about his child's development. At a recent family barbeque, his sister asked him if he's concerned with his son's language development. With his sister being a pediatrician, he feels that she may be overanalyzing his son and snaps back. However, he can't help feeling a bit unsettled as he leaves the barbeque. He logs into Arizona's government page as his first step plan but instantly gets frustrated as there are hardly any resources available and they are not clearly marked. He doesn't exactly know what he's looking for, but he knows its not what is in front of him. He needs a clear way to search for his questions and be connected to practioners in the area that can clearly answer them. He is recommended an application that breaks down these questions using geolocation - this shows him what services are offered at various levels (individual, group, mentorship, support). 
-
-#### How John is using this product
-> As product manager, John feels comfortable with techonology and typically experiences zero issues when it comes to finding an answer. He starts clicking around quite frequently and notices that he'll end up either pages back or be kicked off the webpage completely. When he interacts with *The newly proposed design* he is able to systematically enter in details of importance and narrow his search to providers in the area who can explicitly help me. He seemlessly navigates the webpage and is feeling so much more supported than before. 
-
-![John's Journey Map](https://user-images.githubusercontent.com/91240122/138915343-32728966-be83-4c36-b385-d8edb198207f.png)
-
-### 2. Sarah's Scenario & Journey Map
+### 1. Sarah's Scenario & Journey Map
 #### Why Sarah is using this product
-> When Evan was born, Sarah took a leave from her job as a registered nurse. She was anticipating going back when he turned 1-years-old but then her husband received a raise at work and with the high cost of childcare, it started to make more sense for her to stay home. Since she is stay-at-home mom she already wonders if Evan is missing out on potential socializability interactions but doesn't think much of it. She does however, start to notice some developmental markers he's not hitting and enters the Arizona Government webpage. She is instantly overwhelmed and thinks "Why isn't there a way to quickly connect with families around me who might be having these questions." After school she meets a new family who shows her a webppage that uses geolocation to connect families with one another. There are various levels of support integrated so she feels confident she's discussing with someone who is prioritizing her needs. 
+
+> Sarah is beginning her non-profit ventures, a process that comes with a great deal of documentation, licensing, and most importantly, state approval. At a recent non-profit fair, Sarah chatted with those who have been involved in the non-profit space for much longer and they advised her to begin her journey by filling out government paperwork and adhering to state laws. Feeling very overwhelmed by the legalities of her non-profit's first steps, Sarah took to utilizing the California government website, specifically seeking answers to her questions through the "Doing Business" sub-page. She is initially frustrated by the sheer number of available resources – which set of documents are tailored to her specific set of questions? However, after diving deeper into the website's collection of comprehensive guides & paperwork, she stumbles across the resources for charity/non-profit work, the niche that she is working within. This page breaks down to her the exact steps she needs to follow as she fills out paperwork and files for approval.
 
 #### How Sarah is using this product
+> As an art teacher, Sarah is not very familiar with technology, especially the crude interface of the government website. In order to ensure that she makes appropriate and efficient use out of this software, she seeks help from her husband, John, a software engineer who is well-acquainted with technology. John helps her navigate this site in alignment with the resources she is seeking: drafting and filing the articles of incorporation, appointing the board of directors, drafting the bylaws and conflict of interest policy, and filing the Statement of Information (Form SI-100) with the Secretary of State. Sarah begins by downloading all of the necessary paperwork from the websites, most of which are in pdf form, and filling them out with her non-profit team. She then scans these documents and uploads them to the state's portal, submitting them for approval and waiting to hear back from the state so she can pursue next steps. Clicking around th website was draining and difficult for her, as she felt that many of the documents were hidden within sub-pages, making them highly inaccessible. She doesn't feel as though she would have been able to locate all the necessary information had it not been for her husband's assistance. 
+
+![Sarah's Journey Map](x)
+
+### 2. Kabir's Scenario & Journey Map
+#### Why Kabir is using this product
+> When Evan was born, Sarah took a leave from her job as a registered nurse. She was anticipating going back when he turned 1-years-old but then her husband received a raise at work and with the high cost of childcare, it started to make more sense for her to stay home. Since she is stay-at-home mom she already wonders if Evan is missing out on potential socializability interactions but doesn't think much of it. She does however, start to notice some developmental markers he's not hitting and enters the Arizona Government webpage. She is instantly overwhelmed and thinks "Why isn't there a way to quickly connect with families around me who might be having these questions." After school she meets a new family who shows her a webppage that uses geolocation to connect families with one another. There are various levels of support integrated so she feels confident she's discussing with someone who is prioritizing her needs. 
+
+#### How Kabir is using this product
 > Sarah feels fairly skilled in technology but as she tries to navigate the Arizona.gov homepage she quickly loses confidence. With this *newly proposed design* Sarah is able to see families nearby who have asked the same questions and is able to view the community forum page to see how others went about solving this problem in her neighborhood, within the same school districts. She is joyful because for the first time she knows she can lean on her community during this difficult time. 
 
-![Sarah's Journey Map](https://user-images.githubusercontent.com/91240122/138929685-ec6c8ec2-822c-4fc7-a70a-61bdd667190d.png)
+![Kabir's Journey Map](x)
 
 
 ## Reflection
