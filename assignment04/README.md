@@ -8,7 +8,7 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 
 ### Persona 1: John Muir - Dedicated Single Father, Product Manager and Creative Writer
 
-![Sarah's Persona](Persona01_SarahKim.jpg)
+![Sarah's Persona](persona01.jpg)
 
 ![John's Empathy](https://user-images.githubusercontent.com/91240122/138925590-a9b000c2-6e92-4b97-97d9-babb12bab9aa.png)
 
