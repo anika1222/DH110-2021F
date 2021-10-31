@@ -10,13 +10,13 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 
 ![Sarah's Persona](persona01.jpg)
 
-![John's Empathy](https://user-images.githubusercontent.com/91240122/138925590-a9b000c2-6e92-4b97-97d9-babb12bab9aa.png)
+![Sarah's Empathy](https://user-images.githubusercontent.com/91240122/138925590-a9b000c2-6e92-4b97-97d9-babb12bab9aa.png)
 
 ### Persona 2: Sarah Marquis- Resilient Mother, Registered Nurse and Stay-at-home Caregiver
 
-![Sarah's Persona](https://user-images.githubusercontent.com/91240122/138910890-4b27a491-8fd5-429d-8888-18c93f7a13e0.png)
+![Kabir's Persona](persona02.jpg)
 
-![Sarah's Empathy](https://user-images.githubusercontent.com/91240122/138926501-db469bbb-a760-4854-86d6-ae729045b3a2.png)
+![Kabir's Empathy](https://user-images.githubusercontent.com/91240122/138926501-db469bbb-a760-4854-86d6-ae729045b3a2.png)
 
 
 ## Scenarios & Journey Map
