@@ -44,25 +44,20 @@
 Please find the contextual inquiry script [here](https://docs.google.com/document/d/1Co2YfWUVcVEllxIV5Wb-r7bBhu8riHlscJ9p2C8tVGU/edit?usp=sharing)
 
 Please find the recordings here: 
-[Part 1](https://drive.google.com/file/d/1SUUBWOFRNyFxyKIW1pF9zDe8yCzA4O8J/view?usp=sharing) & [Part 2](https://drive.google.com/file/d/1p8wc_2hTQOQiNN3c3-KgW2lYkBMPFYXC/view?usp=sharing)
+[Part 1](https://drive.google.com/file/d/1SUUBWOFRNyFxyKIW1pF9zDe8yCzA4O8J/view?usp=sharing) & [Part 2](https://drive.google.com/file/d/1p8wc_2hTQOQiNN3c3-KgW2lYkBMPFYXC/view?usp=sharing) – **Note**: While recording via Zoom, the incorrect screen was recorded during the participatory observation (part 2); please disregard the screenshare displayed in this part.
 
-Please find the transcription [here](x)
+Please find the transcription [here](https://docs.google.com/document/d/1EKvwFqpJRf_xCjRKfhb63ccM-L7LdPD0mnbSQzHDsxE/edit?usp=sharing)
 
 ### Noteworthy insights from the interview:
 
-**:one: How the user chooses to plan their parking ahead of time (3:04)**
-> If I know where I'm going, I like to plan ahead so I will try. If I'm going to a difficult place, an area that I know is going to be very difficult to find parking, like Downtown LA, I will do research in advance like I will look for parking structures and save the address of the parking structure in my phone. But if it's like the grocery store, I know where the parking is. I'll find a spot eventually.
+**:one: How often the user hears about issues with art accessibility and its relation to taking action (3:56)**
+> "That’s like a big thing – I always hear about that [art education/accessibility], even in like middle school, high school – I always heard about that. It’s super big to give an arts education; my middle school was an arts magnet, so that was something that was always brought up. Especially with music, we were always told we were super lucky to have that."
 
-**:two: The user's preferences on paid parking (5:03)**
-> I prefer to abstain from going to places that charge exorbitant amounts of money or don't give you the option of at least like an hour free parking. So I'm like, "That's lame." You're capitalizing on people's needs.
+**:two: How the user compares the experience of visiting small vs. large museums (6:57)**
+> "I think large art museums help you, like, get your step into art – it’s not as intimidating, cause with small art museums there may be a more concentrated crowd, so you might feel like you don’t understand certain things, so I think the benefit in small art is like, there’s more nuances maybe and stuff like that, especially for people who are really interested in art, but then, in a large museum, it’s like taking that first step."
 
-**:three: What the user dislikes about the way they look for parking currently (6:13)**
-> You never know what you're going to get. Like, you don't know if it's going to be available, if there are places (parking spots) that are gonna be open.
-
-**:four: The user's ranking of the importance of parking (on a scale of 1-10) as a component of an entire trip (17:40)**
->Okay, so, back to one of your other questions about what if it's important, or how important it is or like, how much will I suffer. Even if the parking is difficult, like, if I'm going somewhere for the first time, fine, I'll suffer through but then the next time it is now a factor I know that it's going to be difficult. So that is becomes a bigger portion of my number — I may turn into like a six or seven. So I think it depends on destination or whether and I've been there, but also I could be willing to give it another shot.
-
-
+**:three: How the user weighs the importance of an arts education in LA versus other social issues (7:20)**
+> "I think the arts are super important, before I say anything – it’s like one of the most important things to have in a well-rounded education; in LA, there’s a lot of problems going on, so I don’t know how much I feel that it should be important on the undergrad/grad level – I think it should be really important in the middle school/high school level, because from there students can take it wherever they want. But I think it should be important at that level, but there’s like so many important things, issues that go on in LA, and so I think this would be best-prioritized at that time."
 
 ## Reflection
 
