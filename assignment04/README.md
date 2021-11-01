@@ -39,7 +39,7 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 #### How Kabir is using this product
 > As an avid technology user and a computer science student, Kabir is beyond adequate when it comes to the use of government websites, even those with crude interfaces, like the ca.gov site. To begin the establishment of his platform as a business, Kabir turns to the "Apply for Business License" service, under which he clicks "Launch Service" and creates an account with the ca.gov site. Upon creating an account and following through with the multi-factor authentication, Kabir is led to the various downloadable paperwork files on the government website. These files include: Registering his business with the California Secretary of State, obtaining his EIN Number (Federal Tax ID Number), opening a business bank account, and registering for taxes. Similar to Sarah's experience with ca.gov, Kabir downloads the various necessary pdf files, fills them out with the help of others (the bank, his parents, etc.), and submits the legal work via the ca.gov submission portal. Eager to hear back from the state to see if his paperwork was approved, Kabir prepares himself to soon complete final steps and get to legally and officially establishing his business.
 
-![Kabir's Journey Map](x)
+![Kabir's Journey Map](journeymap02.jpg)
 
 
 ## Reflection
