@@ -30,7 +30,7 @@ UX storytelling is an instrument to be wielded with great purpose and intention 
 #### How Sarah is using this product
 > As an art teacher, Sarah is not very familiar with technology, especially the crude interface of the government website. In order to ensure that she makes appropriate and efficient use out of this software, she seeks help from her husband, John, a software engineer who is well-acquainted with technology. John helps her navigate this site in alignment with the resources she is seeking: drafting and filing the articles of incorporation, appointing the board of directors, drafting the bylaws and conflict of interest policy, and filing the Statement of Information (Form SI-100) with the Secretary of State. Sarah begins by downloading all of the necessary paperwork from the websites, most of which are in pdf form, and filling them out with her non-profit team. She then scans these documents and uploads them to the state's portal, submitting them for approval and waiting to hear back from the state so she can pursue next steps. Clicking around th website was draining and difficult for her, as she felt that many of the documents were hidden within sub-pages, making them highly inaccessible. She doesn't feel as though she would have been able to locate all the necessary information had it not been for her husband's assistance. 
 
-![Sarah's Journey Map](x)
+![Sarah's Journey Map](journeymap01.jpg)
 
 ### 2. Kabir's Scenario & Journey Map
 #### Why Kabir is using this product
