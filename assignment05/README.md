@@ -23,7 +23,7 @@ Since I drafted these wireframes via digital drawing tools, I conducted my test 
 > - Select respective group ("I am", Senior) and category of resource ("I need", Oral Health Care) being sought out
 > - Learn more about selected topic and save downloadable pdf guide with comprehensive information
 
-![First User Task](task01.jpg)
+![First User Task](firsttask.jpg)
 
 ### Task 2 (Blue flow)
 > - Navigate to top menu/main navigation bar
