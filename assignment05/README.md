@@ -12,10 +12,7 @@ Below are the wireframes + wireflows I created for my platform and utilized for 
 > - Task 1: Finding information with "Find What You're Looking For" (quick search) function – triggered by clicking search bar
 > - Task 2: Narrowing resources with selective demographic filters – triggered by clicking menu
 
-![](x)
-![](x)
-![](x)
-![](x)
+![Wireframes + wireflows](wireframesandflows.jpg)
 
 ## Testing
 
