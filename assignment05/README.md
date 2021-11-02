@@ -9,8 +9,8 @@ Throughout the course of the past few assignments, I've gone through the motions
 
 Below are the wireframes + wireflows I created for my platform and utilized for my user testing. The arrows between the wireframes depict the flow, while the wireframes hold the technical and cognitive functionalities of two tasks.
 
-> - Task 1: Finding information with "Find What You're Looking For" (quick search) function – triggered by clicking search bar
-> - Task 2: Narrowing resources with selective demographic filters – triggered by clicking menu
+> - Task 1: Finding information with "Find What You're Looking For" (quick search) function – triggered by clicking drop-down menus
+> - Task 2: Narrowing resources with selective demographic + topic filters – triggered by clicking main navigation menu
 
 ![Wireframes + wireflows](wireframesandflows.jpg)
 
@@ -19,21 +19,21 @@ Below are the wireframes + wireflows I created for my platform and utilized for 
 Since I drafted these wireframes via digital drawing tools, I conducted my test in-person and had my participant navigate through the two (2) tasks on the raw wireframe files. I carefully observed my participant's decisions, journey, and movement, and was able to track them in the form of the below tests. Prior to conducting the test, I briefed the two (2) tasks to my participant and provided a step-by-step explanation of what they would be navigating and other features that they should be prepared to interact with.
 
 > ### Task 1 (Red flow)
-> - Navigate to search bar
-> - Select respective group (Senior) and category of resource being sought out (Oral Health Care)
-> - Learn more about selected topic and save downloadable pdf with respective information
+> - Navigate to "Find What You're Looking For" (quick search function) on home page
+> - Select respective group ("I am", Senior) and category of resource ("I need", Oral Health Care) being sought out
+> - Learn more about selected topic and save downloadable pdf guide with comprehensive information
 
 ![](x)
 ![](x)
 
 ### Task 2 (Blue flow)
 > - Navigate to top menu/main navigation bar
-> - Select appropriate filters (Women, Healthy living) for desired information (Nutrition & Physical Activity)
-> - Learn about Arizona WIC Program and apply
+> - Expand "Audiences" page, select respective group (Women)
+> - Turn on appropriate filters (Healthy living) and locate desired information (WIC Program)
+> - Learn about program and apply
 
 ![](x)
 ![](x)
-
 
 ## Reflection
 My user test went much smoother than I had expected – my participant was able to navigate through the two (2) tasks I assigned them (relatively) efficiently, which was rewarding for me to observe given that this was their first time interacting with these flows. However, there is always room for error, and this inevitable fact manifested itself in a few hiccups along the journey of my participant.
