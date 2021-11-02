@@ -23,8 +23,7 @@ Since I drafted these wireframes via digital drawing tools, I conducted my test 
 > - Select respective group ("I am", Senior) and category of resource ("I need", Oral Health Care) being sought out
 > - Learn more about selected topic and save downloadable pdf guide with comprehensive information
 
-![](x)
-![](x)
+![First User Task](task01.jpg)
 
 ### Task 2 (Blue flow)
 > - Navigate to top menu/main navigation bar
@@ -32,8 +31,7 @@ Since I drafted these wireframes via digital drawing tools, I conducted my test 
 > - Turn on appropriate filters (Healthy living) and locate desired information (WIC Program)
 > - Learn about program and apply
 
-![](x)
-![](x)
+![Second User Task](task02.jpg)
 
 ## Reflection
 My user test went much smoother than I had expected – my participant was able to navigate through the two (2) tasks I assigned them (relatively) efficiently, which was rewarding for me to observe given that this was their first time interacting with these flows. However, there is always room for error, and this inevitable fact manifested itself in a few hiccups along the journey of my participant.
