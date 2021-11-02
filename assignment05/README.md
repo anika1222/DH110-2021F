@@ -2,8 +2,8 @@ Assignment 05: Low-Fidelity Prototypes
 
 # Arizona Health Services Accessibility for Public Health
 
-## Preface + Purpose of Low-fi Prototyping
-Throughout the course of the past few assignments, I've gone through the motions of conducting research and collecting data for the creation of my platform. In this assignment, I will be applying my research to low-fidelity prototypes and bringing systematic & fundamental features within my platform to life. Low-fidelity prototyping is a rapid manner by which to test potential features of a product with a target audience member prior to fully investing time and money into the fruition of said functionalities. The process of low-fi prototyping is crucial to receiving preliminary feedback from members of the target audience and allows for a iterative visual and systematic design process. Through the use of low-fi prototypes in my project, which is centered around making public health resources in Arizona accessible to all, I can prematurely test design features with users before moving onto high-fidelity solutions.
+## Preface + Purpose of Low-fidelity Prototyping
+Throughout the course of the past few assignments, I've gone through the motions of conducting research and collecting data for the creation of my platform. In this assignment, I will be applying my research to low-fidelity prototypes and bringing systematic & fundamental features within my platform to life. Low-fidelity prototyping is a rapid manner by which to test potential features of a product with a target audience member prior to fully investing time and money into the fruition of said functionalities. The process of low-fi prototyping is crucial to receiving preliminary feedback from members of the target audience and allows for a iterative visual and systematic design process. Through the use of lo-fi prototypes in my project, which is centered around making public health resources in Arizona accessible to all, I can prematurely test design features with users before moving onto high-fidelity solutions.
 
 ## Wireframes + Wireflows
 
