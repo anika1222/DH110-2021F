@@ -25,7 +25,7 @@ Since I drafted these wireframes via digital drawing tools, I conducted my test 
 
 ![First User Task](firsttask.jpg)
 
-### Task 2 (Blue flow)
+> ### Task 2 (Blue flow)
 > - Navigate to top menu/main navigation bar
 > - Expand "Audiences" page, select respective group (Women)
 > - Turn on appropriate filters (Healthy living) and locate desired information (WIC Program)
@@ -35,8 +35,9 @@ Since I drafted these wireframes via digital drawing tools, I conducted my test 
 
 ## Reflection
 My user test went much smoother than I had expected – my participant was able to navigate through the two (2) tasks I assigned them (relatively) efficiently, which was rewarding for me to observe given that this was their first time interacting with these flows. However, there is always room for error, and this inevitable fact manifested itself in a few hiccups along the journey of my participant.
-> -
-> -
-> -
+> ### Test observations + hiccups
+> - During their first task (quick search function), the user encountered some confusion due to the presence of two (2) search bars. Out of habit, the user clicked on the search bar symbol, when this first task actually took place in the quick search function ("Find What You're Looking For") a little further down the home page. I will be making this feature more intuitive in future iterations.
+> - The user was pleasantly surprised to see a familiar symbol in their second task – the three-lined menu symbol. This was indicative of a menu navigation to them and they expected that this feature would expand and collapse upon trigger.
+> - During their second task (selective demographic + topic filters), the user was sligtly off-put by two (2) expansions taking place under the same menu bar. They felt that this was slightly unnecessary and dense, which is why I will be fusing these expansions into one (1) drop-down expansion in future iterations.
 
 Overall, crafting and testing these wireframes + flows was an enriching experience that has proven to be critical to the construction of my platform. This assignment has pushed me to value laying the groundwork prior to tackling any high-fidelity visual design solutions; working on a lo-fi scale has allowed me to craft iterative solutions and work flexibly by the needs of my users, which is a fundamental part of building delightful experiences that can truly have tangible impacts.
