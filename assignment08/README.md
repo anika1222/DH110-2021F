@@ -54,7 +54,7 @@ Upon completion of my prototype, I moved onto a [cognitive walkthrough](https://
 
 ### Pitch Video
 
-You can view my pitch video [here](x).
+You can view my pitch video [here](https://drive.google.com/file/d/1bX1k2dupxG2tCsiPJyrbSuBMY7cdEWjm/view?usp=sharing).
 
 ### Conclusion
 
